@@ -32,7 +32,7 @@ The content is organized as follows:
 <notes>
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Files matching these patterns are excluded: _site/**, data/**.html
+- Files matching these patterns are excluded: **/*.html, _site/**
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
 - Files are sorted by Git change count (files with more changes are at the bottom)
@@ -41,6 +41,9 @@ The content is organized as follows:
 </file_summary>
 
 <directory_structure>
+contact-us/
+  contact-us.qmd
+  thank-you.qmd
 images/
   headshot.jpg
   hero.jpeg
@@ -65,6 +68,24 @@ theme.scss
 
 <files>
 This section contains the contents of the repository's files.
+
+<file path="contact-us/contact-us.qmd">
+---
+title: "Contact Us"
+
+---
+
+Template
+</file>
+
+<file path="contact-us/thank-you.qmd">
+---
+title: "Thank you"
+
+---
+
+Form submitted.
+</file>
 
 <file path="listings/01-campaign-insights-dashboard.qmd">
 ---
@@ -219,11 +240,6 @@ This analysis examined engagement metrics across multiple social media platforms
 - Strategic planning
 :::
 :::
-</file>
-
-<file path=".gitignore">
-/.quarto/
-.Rproj.user
 </file>
 
 <file path="marketing-analytics.qmd">
@@ -602,6 +618,14 @@ pre code {
 }
 </file>
 
+<file path=".gitignore">
+/.quarto/
+.Rproj.user
+
+**/*.quarto_ipynb
+.DS_Store
+</file>
+
 <file path="_quarto.yml">
 project:
   type: website
@@ -624,6 +648,8 @@ format:
   html:
     theme: [flatly, theme.scss]
     toc: true
+    include-in-header: includes/gtm-head.html      # Injects GTM script into <head>
+    include-before-body: includes/gtm-body.html    # Injects GTM noscript immediately after <body> opens
 </file>
 
 </files>
