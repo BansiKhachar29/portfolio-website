@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Hi, I'm Bansi Khachar"
 ---
 
 
@@ -14,13 +14,13 @@ I'm a . I specialize in transforming complex information into clear, engaging, a
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institutio
+I hold a <span class="highlight"> MS in Digital Marketing and Analytics </span> from Cal Poly Pomona.
 
 
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mailto:bansikhachar@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/bansikhachar29/).
 
 ---
 
