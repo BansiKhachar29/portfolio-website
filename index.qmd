@@ -14,7 +14,7 @@ I'm a . I specialize in transforming complex information into clear, engaging, a
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
+I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institutio
 
 
 
