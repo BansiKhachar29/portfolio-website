@@ -2,26 +2,24 @@
 title: "Hi, I'm Bansi Khachar"
 ---
 
-
-::: {.columns}
+::::: columns
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![](images/IMG_7286%202-2.jpg){.rounded-circle style="border-radius: 50%;" width="100%"}
 :::
+
 ::: {.column width="70%" style="padding-left: 3rem;"}
 I'm a . I specialize in transforming complex information into clear, engaging, and actionable insights.
 :::
-:::
+:::::
 
 ## About Me
 
-I hold a <span class="highlight"> MS in Digital Marketing and Analytics </span> from Cal Poly Pomona.
-
-
+I hold a [MS in Digital Marketing and Analytics]{.highlight} from Cal Poly Pomona.
 
 ## Let's Connect
 
 You can [email me](mailto:bansikhachar@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/bansikhachar29/).
 
----
+------------------------------------------------------------------------
 
 *Welcome to my portfolio.*
