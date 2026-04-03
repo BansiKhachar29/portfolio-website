@@ -9,20 +9,21 @@ Results-oriented marketing and analytics professional with a strong foundation i
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+- **Tools:** Qualtrics, Looker Studio, Tableau, Google Analytics 4, Google Tag Manager, Google Ads, ArcGIS, Monday.com 
+- **Technical:** R, SQL, WordPress, HTML, CSS, WCAG
+- **Methods:** Data Visualization, A/B Testing, Customer Segmentation, Market Research, Campaign Analysis, SEO Optimization, UX/UI Principles, Theme Analysis, Crosstab Analysis
 
 # Education
 
-| Degree                             | Year                                | Institution         |
+| Degree                             | Year                                | Institution  |
 | ---------------------------------- | ----------------------------- | ------------------- |
-| MS In Digital Marketing and Analytics                     | 2024 – 2026      | [California State Polytechnic University, Pomona, CA ]   |
-| Bachelor of Business Administration (Honors)	 | [2020 – 2024]              | [Ahmedabad University, Gujarat, India]   |
+| MS In Digital Marketing and Analytics                     | 2024 – 2026 | California State Polytechnic University, Pomona, CA   |
+| Bachelor of Business Administration (Honors) <br>*Major in Marketing* | 2020 – 2024 | Ahmedabad University, Gujarat, India   |
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Data Analyst Assistant, 
+<div style="display:flex; justify-content:space-between; align-items:center;"><strong style="color:black;">Associated Student Inc., Pomona, CA</strong><strong style="color:black;">Jun 2025 – Present</strong></div>
 
 - [Responsibility or accomplishment #1]  
 - [Responsibility or accomplishment #2]  
