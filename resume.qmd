@@ -22,8 +22,8 @@ Results-oriented marketing and analytics professional with a strong foundation i
 
 # Work Experience
 
-### Data Analyst Assistant, 
-<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem;"><strong style="color:black;">Associated Student Inc., Pomona, CA</strong><strong style="color:black;">Jun 2025 – Present</strong></div>
+### Data Analyst Assistant
+<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem;"><strong style="color:black;">Associated Student Inc. - Pomona, CA</strong><strong style="color:black;">Jun 2025 – Present</strong></div>
 
 - Designed and deployed 6 cross-campus surveys using **Qualtrics** and **Excel**, achieved from 85% to 95% response rates and supporting data-driven decision-making across departments.
 - Performed crosstab and segmented analysis on 450+ employees, identified key trends and delivering insights that improved engagement, with 79% reporting stronger connection to the organization.
@@ -32,13 +32,12 @@ Results-oriented marketing and analytics professional with a strong foundation i
 
 ---
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Web Assistant
+<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem;"><strong style="color:black;">Cal Poly Pomona Enterprises - Pomona, CA </strong><strong style="color:black;">Apr 2025 – Present</strong></div>
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+- Managed and developed website content using WordPress, HTML, and CSS, ensuring accuracy, accessibility, and alignment with brand and promotional standards
+- Audited and resolved site issues, improving accessibility score from 7 to 9.7/10 and achieving full WCAG compliance pre-launch
+- Analyzed 15+ university websites to identify navigation and content trends, translating findings into Figma wireframes and sitemaps
+- Collaborated with designers, developers, and IT teams to execute site updates, campaign content, and QA for a successful website launch
 
 ---
