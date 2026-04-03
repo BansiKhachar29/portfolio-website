@@ -15,7 +15,7 @@ Results-oriented marketing and analytics professional with a strong foundation i
 
 # Education
 
-| Degree                             | Year                                | Institution  |
+| Degree                             | Year              | Institution  |
 | ---------------------------------- | ----------------------------- | ------------------- |
 | MS In Digital Marketing and Analytics                     | 2024 – 2026 | California State Polytechnic University, Pomona, CA   |
 | Bachelor of Business Administration (Honors) <br>*Major in Marketing* | 2020 – 2024 | Ahmedabad University, Gujarat, India   |
@@ -23,13 +23,12 @@ Results-oriented marketing and analytics professional with a strong foundation i
 # Work Experience
 
 ### Data Analyst Assistant, 
-<div style="display:flex; justify-content:space-between; align-items:center;"><strong style="color:black;">Associated Student Inc., Pomona, CA</strong><strong style="color:black;">Jun 2025 – Present</strong></div>
+<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem;"><strong style="color:black;">Associated Student Inc., Pomona, CA</strong><strong style="color:black;">Jun 2025 – Present</strong></div>
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+- Designed and deployed 6 cross-campus surveys using **Qualtrics** and **Excel**, achieved from 85% to 95% response rates and supporting data-driven decision-making across departments.
+- Performed crosstab and segmented analysis on 450+ employees, identified key trends and delivering insights that improved engagement, with 79% reporting stronger connection to the organization.
+- Led themes analysis of 400+ open-ended responses in **Dedoose**, to identify patterns in user behavior and translating findings into actionable recommendations across 10 teams.
+- Collaborated with cross-functional teams to define research questions and success metrics and communicated insights through clear data storytelling to support decision-making.
 
 ---
 
