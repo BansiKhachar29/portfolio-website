@@ -3,8 +3,6 @@ title: "Résumé"
 ---
 
 
-
-
 # Professional Summary
 
 Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
@@ -16,10 +14,10 @@ Results-oriented marketing and analytics professional with a strong foundation i
 
 # Education
 
-| Degree                             | Year                          | College / Department                 | Institution         |
-| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+| Degree                             | Year                                | Institution         |
+| ---------------------------------- | ----------------------------- | ------------------- |
+| MS In Digital Marketing and Analytics                     | 2024 – 2026      | [California State Polytechnic University, Pomona, CA ]   |
+| Bachelor of Business Administration (Honors)	 | [2020 – 2024]              | [Ahmedabad University, Gujarat, India]   |
 
 # Work Experience
 
