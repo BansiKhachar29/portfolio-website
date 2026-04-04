@@ -15,10 +15,10 @@ Results-oriented marketing and analytics professional with a strong foundation i
 
 # Education
 
-| Degree                             | Year              | Institution  |
-| ---------------------------------- | ----------------------------- | ------------------- |
-| MS In Digital Marketing and Analytics                     | 2024 – 2026 | California State Polytechnic University, Pomona, CA   |
-| Bachelor of Business Administration (Honors) <br>*Major in Marketing* | 2020 – 2024 | Ahmedabad University, Gujarat, India   |
+| Degree           | Year | Institution |
+|---|---|---|
+| MS in Digital Marketing and Analytics | 2024–2026 | California State Polytechnic University, Pomona, CA |
+| Bachelor of Business Administration (Honors), *Major in Marketing* | 2020–2024 | Ahmedabad University, Gujarat, India |
 
 # Work Experience
 
@@ -38,6 +38,6 @@ Results-oriented marketing and analytics professional with a strong foundation i
 - Managed and developed website content using WordPress, HTML, and CSS, ensuring accuracy, accessibility, and alignment with brand and promotional standards
 - Audited and resolved site issues, improving accessibility score from 7 to 9.7/10 and achieving full WCAG compliance pre-launch
 - Analyzed 15+ university websites to identify navigation and content trends, translating findings into Figma wireframes and sitemaps
-- Collaborated with designers, developers, and IT teams to execute site updates, campaign content, and QA for a successful website launch
+-Collaborated with designers, developers, and IT teams to execute site updates, campaign content, and QA for a successful website launch
 
 ---

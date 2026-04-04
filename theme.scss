@@ -1,200 +1,74 @@
 /*-------------------------------------------------
-  Lux-like SCSS (standard, no frills)
-  Colors & typography set to user values
+  Generic SCSS Starter
+  Replace the sample values with your own brand
 --------------------------------------------------*/
-
-/* Import web fonts similar to Bootswatch Lux */
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&family=Merriweather:wght@400;700&display=swap');
-
 /*-- scss:defaults --*/
-
-// ── Brand / layout palette ───────────────────────
-$navbar-bg:       #1a1a1a;  // top bar
-$background:      #f7f9fa;  // page background
-$link-color:      #2b64e3;  // link color
-$text-color:      #212529;  // primary body text
-$muted:           #6c757d;  // secondary text
-
-// Optional accents (keep neutral)
-$accent-1:        $link-color;
-$accent-2:        #A6CE6E;  // unused default
-$neutral-0:       #ffffff;
-$neutral-1:       $background;
-$neutral-9:       #121212;
-
+// ── Brand Palette ────────────────────────────────
+$color-primary:   #0d0d0d;  // ← Replace with brand primary
+$color-secondary: #ABCDEF;  // ← Replace with brand secondary
+// Optional accent & neutral tones
+$accent-1:  #FF7F00;  // e.g., highlight / link
+$accent-2:  #A6CE6E;  // e.g., success
+$neutral-0: #FFFFFF;  // light / backgrounds
+$neutral-1: #F5F5F5;  // eggshell / subtle sections
+$neutral-9: #121212;  // near-black text
 // ── Typography ──────────────────────────────────
-$font-body:       'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-$font-headings:   'Merriweather', Georgia, serif;
-$base-font-size:  16px;
-$line-height:     1.6;
-
+$font-primary:    Arial, sans-serif;
+$font-secondary:  Georgia, serif;
+$font-body:       $font-primary;
+// ── Derived / utility variables ─────────────────
+$color-secondary-dark: darken($color-secondary, 10%);
 /*-- scss:rules --*/
-
-/* Global resets */
-* {
-  box-sizing: border-box;
-}
-
-html, body {
-  height: 100%;
+/* Global body styles */
+body {
   font-family: $font-body;
-  font-size: $base-font-size;
-  line-height: $line-height;
-  color: $text-color;
-  background-color: $background;
+  color: $neutral-9;
+  background-color: $neutral-1;
   margin: 0;
   padding: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
-
-/* Top navigation / top bar (standard) */
-.navbar,
-.header,
-.topbar {
-  background-color: $navbar-bg;
-  color: rgba(255,255,255,0.92);
-  width: 100%;
-  padding: 0.6rem 1rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  box-shadow: 0 1px 0 rgba(0,0,0,0.06);
-  font-family: $font-body;
-  font-weight: 600;
-  font-size: 0.95rem;
-}
-
-.navbar a,
-.topbar a {
-  color: rgba(255,255,255,0.92);
-  text-decoration: none;
-}
-
-.navbar a:hover,
-.topbar a:hover {
-  color: $link-color;
-  text-decoration: underline;
-}
-
-/* Page container */
-.container {
-  max-width: 1140px;
-  margin: 1.5rem auto;
-  padding: 0 1rem;
-}
-
-/* Headings (serif for a Lux-like feel) */
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
+  font-family: $font-primary;
+  font-weight: bold;
   margin-top: 0;
-  margin-bottom: 0.5rem;
-  font-family: $font-headings;
-  color: $text-color;
-  font-weight: 700;
-  line-height: 1.25;
 }
-
-h1 { font-size: 2.25rem; }
-h2 { font-size: 1.75rem; }
-h3 { font-size: 1.375rem; }
-
-/* Paragraphs and text */
+h1 { color: $color-primary;   }
+h2 { color: $color-secondary-dark; }
+h3 { color: $accent-1;        }
+/* Paragraphs */
 p {
-  margin: 0 0 1rem 0;
-  color: $text-color;
-  font-size: 1rem;
+  font-size: 1em;
+  line-height: 1.5;
+  color: $neutral-9;
 }
-
 /* Links */
 a {
-  color: $link-color;
+  color: $accent-1;
   text-decoration: none;
-  transition: color 120ms ease-in-out;
+  &:hover {
+    text-decoration: underline;
+  }
 }
-
-a:hover,
-a:focus {
-  color: darken($link-color, 8%);
-  text-decoration: underline;
-}
-
-/* Buttons (standard) */
-.btn {
-  display: inline-block;
-  padding: 0.45rem 0.75rem;
-  border-radius: 0.25rem;
-  font-family: $font-body;
-  font-weight: 600;
-  text-decoration: none;
-  cursor: pointer;
-  border: 1px solid transparent;
-  background-color: $link-color;
-  color: $neutral-0;
-}
-
-.btn-outline {
-  background: transparent;
-  color: $link-color;
-  border-color: $link-color;
-}
-
-.btn:hover {
-  background-color: darken($link-color, 6%);
-}
-
-/* Forms (simple, standard) */
-.input,
-select,
-textarea {
-  width: 100%;
-  padding: 0.5rem 0.6rem;
-  border: 1px solid #dfe3e8;
-  border-radius: 0.25rem;
-  background: $neutral-0;
-  color: $text-color;
-  font-family: $font-body;
-  font-size: 1rem;
-}
-
-/* Cards / panels */
-.card {
-  background: $neutral-0;
-  border: 1px solid #e6ebef;
-  border-radius: 0.25rem;
-  padding: 1rem;
-  box-shadow: 0 1px 3px rgba(16,24,40,0.03);
-}
-
 /* Code blocks */
-pre, pre code {
-  background: #0f1724;
-  color: #e6f0ff;
-  font-family: SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
-  font-size: 0.875rem;
+pre code {
+  background: $neutral-9;
+  color: $color-secondary;
+  font-size: 1em;
   padding: 0.9em 1.1em;
-  border-radius: 6px;
+  border-radius: 5px;
+  border: 2px solid $accent-2;
   overflow-x: auto;
 }
-
-/* Utilities */
-.text-muted {
-  color: $muted;
+/* Highlight utility */
+.highlight {
+  background-color: $accent-1;
+  color: $neutral-0;
+  padding: 0.2em 0.4em;
+  border-radius: 0.2em;
 }
-
-.small {
-  font-size: 0.875rem;
-}
-
-/* Footer (simple) */
-.footer {
-  padding: 1.25rem;
-  background: lighten($navbar-bg, 6%);
-  color: rgba(255,255,255,0.85);
-  text-align: center;
-}
-
-/* Example keyframes (kept simple) */
+/* Example animation (optional) */
 @keyframes progressColor {
-  0%   { background-color: $navbar-bg; }
-  100% { background-color: $link-color; }
+  0%   { background-color: $color-primary;   }
+  100% { background-color: $color-secondary; }
 }
