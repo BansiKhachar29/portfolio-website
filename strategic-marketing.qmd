@@ -77,12 +77,12 @@ Ontario International Airport competes directly with LAX, SNA, BUR, and SAN for 
 We integrated two independent datasets — a large-scale community event survey capturing post-event flight intent, media channel exposure, and residential ZIP codes, and airport WiFi login records from actual ONT passengers. Cross-validating stated survey intent against real passenger behavior is what separates this framework from a standard survey analysis.
 Six analytical methods were applied across the following strategic questions:
 
-- **Geo-Scoring Model:** A weighted composite index ranked ZIP codes by post-event intent, competitor airport usage, and brand unawareness — producing a tiered deployment roadmap for geofencing investment
-- **WiFi Behavioral Cross-Validation:** Priority ZIP codes were verified against actual WiFi login records segmented by travel purpose, confirming the scoring model reflects real behavior
-- **Channel-Level Attribution:** Post-event intent was measured across six media channels, identifying which channels drove above-baseline conversion and which generated reach without intent
-- **Multi-Channel Synergy Analysis:** Tested whether multi-channel exposure lifted intent, identifying the threshold at which IMC synergy produced measurably above-average conversion
-- **Traveler Segment Profiling:** WiFi behavioral data distinguished business from leisure travelers within priority ZIP codes, informing ad creative differentiation
-- **Thematic Analysis:** Open-ended survey responses were coded into content themes, surfacing the messaging angles most resonant with ONT's community audience
+- **Geo-Scoring Model** 
+- **WiFi Behavioral Cross-Validation** 
+- **Channel-Level Attribution** 
+- **Multi-Channel Synergy Analysis** 
+- **Traveler Segment Profiling** 
+- **Thematic Analysis**
 
 **What the Framework Delivers**
 
