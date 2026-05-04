@@ -4,7 +4,7 @@ title: "Digital Marketing"
 
 Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
 
-## [Project Title 1: Digital Marketing Strategy for Trauma Resource Institute (TRI) Data and Source]
+## Project Title 1: Digital Marketing Strategy for Trauma Resource Institute (TRI)
 
 This project is based on secondary data from the Trauma Resource Institute (TRI), including its website, mobile application (iChill), social media platforms, and industry competitor analysis. Additional insights were derived from digital marketing tools such as Google Ads Keyword Planner and market research.
 
@@ -52,6 +52,65 @@ The analysis identified key gaps in TRI’s digital marketing efforts, including
 
 ---
 
+## Project Title 2: Ontario International Airport: Measuring Community Engagement ROI
+
+This project built a geotargeting and channel attribution framework for Ontario International Airport, integrating community event survey data with airport WiFi behavioral records to identify high-priority markets, rank media channels by conversion performance, and profile travelers for targeted post-event campaigns. The result is a repeatable, data-driven targeting model that connects community engagement directly to passenger behavior.
+
+Data and findings protected under NDA.
+
+**Skills Demonstrated:**
+
+- **Data-Driven Adjustments:** Leveraged analytics to refine tactics.
+- **Geotargeting & Market Segmentation:** Built a weighted ZIP code scoring model to prioritize high-conversion markets for post-event digital campaigns.
+- **Channel Attribution Modeling:** Analyzed six media channels to identify which drove measurable conversion versus reach.
+- **Behavioral Data Analysis:** Cross-validated survey intent against real passenger WiFi data to produce a defensible targeting model.
+- **Traveler Segmentation:** Differentiated business and leisure audiences to inform ad creative strategy.
+-**IMC Strategy:** Identified multi-channel synergy thresholds to guide post-event campaign sequencing.
+
+**The Business Problem**
+
+Ontario International Airport competes directly with LAX, SNA, BUR, and SAN for Inland Empire passengers. Despite running hundreds of community engagement events annually, ONT had no way to answer three critical questions: 
+- Which geographic markets are worth targeting after an event? 
+- Which media channels are converting engagement into flight intent? 
+- How should post-event campaigns be structured to reach the right people with the right message?
+
+**Our Approach**
+We integrated two independent datasets — a large-scale community event survey capturing post-event flight intent, media channel exposure, and residential ZIP codes, and airport WiFi login records from actual ONT passengers. Cross-validating stated survey intent against real passenger behavior is what separates this framework from a standard survey analysis.
+Six analytical methods were applied across the following strategic questions:
+
+- **Geo-Scoring Model:** A weighted composite index ranked ZIP codes by post-event intent, competitor airport usage, and brand unawareness — producing a tiered deployment roadmap for geofencing investment
+- **WiFi Behavioral Cross-Validation:** Priority ZIP codes were verified against actual WiFi login records segmented by travel purpose, confirming the scoring model reflects real behavior
+- **Channel-Level Attribution:** Post-event intent was measured across six media channels, identifying which channels drove above-baseline conversion and which generated reach without intent
+- **Multi-Channel Synergy Analysis:** Tested whether multi-channel exposure lifted intent, identifying the threshold at which IMC synergy produced measurably above-average conversion
+- **Traveler Segment Profiling:** WiFi behavioral data distinguished business from leisure travelers within priority ZIP codes, informing ad creative differentiation
+- **Thematic Analysis:** Open-ended survey responses were coded into content themes, surfacing the messaging angles most resonant with ONT's community audience
+
+**What the Framework Delivers**
+The output is a repeatable targeting and attribution infrastructure — not a one-time analysis — that ONT's team can apply to every future engagement cycle:
+
+- A tiered ZIP code map directing post-event geofencing and email spend toward highest-conversion markets
+- A channel performance ranking providing data-backed rationale for media budget reallocation
+- A segment-differentiated creative strategy tailored to business vs. leisure vs visiting traveler profiles
+- A multi-channel sequencing architecture specifying the channel combinations associated with above-average intent conversion
+
+**Capabilities Demonstrated**
+
+- Geo-scoring model design 
+- GIS spatial mapping 
+- Channel attribution modeling 
+- Behavioral data cross-validation 
+- Multi-channel synergy analysis 
+- Traveler segmentation 
+- Thematic analysis 
+- Strategic recommendation development
+
+
+
+
+
+
+
+
 ## [Project Title 3: Product Launch Go-to-Market Plan]
 
 For the release of **[new product/service]**, I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.
@@ -70,13 +129,3 @@ Below is an embedded demonstration of the interactive report:
 
 ---
 
-## [Project Title 4: Client Consulting & Campaign Optimization]
-
-I collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.
-
-**Skills Demonstrated:**
-
-- **Client Consulting:** Provided clear insights and strategic guidance.
-- **Persona Development:** Built target personas to guide messaging.
-- **Campaign Optimization:** Identified and addressed areas of underperformance.
-- **Data-Driven Adjustments:** Leveraged analytics to refine tactics.
