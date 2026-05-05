@@ -1,28 +1,28 @@
 ---
-title: "Social Media Engagement Analysis"
+title: "Campaign Performance Dashboard"
 image: "https://placehold.co/600x400?text=Social+Media+Analysis"
-categories: [Social Media, Engagement Metrics, Content Strategy, Audience Analysis, Analytics]
+categories: [Dashboard, Data Visualization, Marketing Analytics]
 index: 5
 ---
 
 #### **Overview**  
-This analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.
+Built an interactive dashboard to track campaign performance metrics, identify trends, and support data-driven marketing decisions across channels.
 
 ::: {.columns}
 ::: {.column width="50%"}
 #### **Learning Outcomes**  
-- Aggregate and clean social media data.  
-- Identify high-performing content formats.  
-- Understand audience behavior and peak times.  
-- Support social strategy with data-backed recommendations.  
-- Visualize results in an executive summary.
+- Built a dashboard to track campaign performance metrics  
+- Integrated data across multiple marketing channels  
+- Analyzed trends in CTR, conversion rate, and ROI  
+- Designed visualizations for stakeholder reporting  
+- Enabled real-time performance monitoring  
 :::
 ::: {.column width="50%"}
 #### **Key Skills Gained**  
-- Social analytics  
-- Platform metric APIs  
-- Content performance tracking  
-- Audience insights  
-- Strategic planning
+- Identified high- and low-performing campaigns  
+- Revealed trends across channels and audience segments  
+- Improved visibility into marketing performance  
+- Supported faster, data-driven decision-making  
+- Enhanced reporting for stakeholders  
 :::
 :::

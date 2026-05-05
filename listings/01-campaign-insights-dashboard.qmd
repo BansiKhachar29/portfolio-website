@@ -1,28 +1,28 @@
 ---
-title: "Campaign Insights Dashboard"
+title: "Website Performance & Funnel Analysis"
 image: "https://placehold.co/600x400?text=Campaign+Dashboard"
-categories: [Dashboarding, Marketing Analytics, Data Visualization, Performance Metrics, Customer Insights]
+categories: [Marketing Analytics, Google Analytics, Funnel Anlysis, Customer Insights]
 index: 1
 ---
 
 #### **Overview**  
-This project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.
+Analyzed user behavior, demographics, and conversion funnels using Google Analytics to identify high-value audiences, optimize ad targeting, and reduce drop-offs in program enrollment.
 
 ::: {.columns}
 ::: {.column width="50%"}
 #### **Learning Outcomes**  
-- Visualize and monitor key marketing metrics.  
-- Analyze performance trends across multiple campaigns.  
-- Identify high- and low-performing segments.  
-- Communicate insights through interactive visuals.  
-- Develop data-informed recommendations.
+- Analyzed user demographics and behavior using GA4  
+- Evaluated traffic sources and acquisition channels  
+- Conducted funnel analysis to identify drop-off points  
+- Assessed landing page performance and user journeys  
+- Identified high-value audience segments  
 :::
 ::: {.column width="50%"}
 #### **Key Skills Gained**  
-- Dashboard development  
-- Campaign analytics  
-- Data wrangling in R  
-- Tableau or R Shiny visualization  
-- Performance measurement
+- Identified major drop-offs in the enrollment funnel  
+- Discovered high-traffic segments with low conversion rates  
+- Highlighted mismatch between traffic sources and conversion quality  
+- Improved ad targeting toward high-converting audiences  
+- Provided recommendations to optimize conversion performance  
 :::
 :::

@@ -1,28 +1,29 @@
 ---
 title: "Customer Segmentation Using Clustering"
 image: "https://placehold.co/600x400?text=Customer+Segmentation"
-categories: [Customer Insights, Segmentation, Machine Learning, Clustering, Marketing Strategy]
+categories: [Segmentation, Machine Learning, Customer Insights]
 index: 3
 ---
 
 #### **Overview**  
-In this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.
+Applied clustering techniques to segment customers based on behavior and preferences, enabling targeted marketing strategies and improved personalization.
 
 ::: {.columns}
 ::: {.column width="50%"}
 #### **Learning Outcomes**  
-- Clean and prepare customer-level data.  
-- Apply clustering techniques to group similar customers.  
-- Interpret clusters to define marketing personas.  
-- Recommend tailored messaging strategies.  
-- Support targeted campaign development.
+- Collected and cleaned survey data using Qualtrics  
+- Applied clustering techniques to segment customers  
+- Conducted regression and statistical analysis  
+- Evaluated factors influencing customer satisfaction  
+- Analyzed behavioral and preference patterns  
 :::
 ::: {.column width="50%"}
 #### **Key Skills Gained**  
-- K-means clustering  
-- Data preprocessing  
-- Customer profiling  
-- Market segmentation strategy  
-- R or Python for machine learning
+- Identified distinct customer segments with different needs  
+- Found price, food quality, and cleanliness as key drivers  
+- Revealed differences between price-sensitive and experience-focused users  
+- Enabled targeted marketing and service improvements  
+- Supported data-driven decision-making for operations  
+
 :::
 :::

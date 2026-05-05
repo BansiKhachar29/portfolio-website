@@ -1,28 +1,29 @@
 ---
-title: "SEO Benchmarking Analysis"
+title: "Airport Parking Optimization (ONT)"
 image: "https://placehold.co/600x400?text=SEO+Analysis"
-categories: [SEO, Competitive Analysis, Keyword Research, Digital Strategy, Search Rankings]
+categories: [Data Analysis, Time Series, Segmentation, Geospatial Analysis, Geo-targeting]
 index: 2
 ---
 
 #### **Overview**  
-This project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.
+Built a geo-targeting and attribution framework combining survey and behavioral data to identify high-value markets, evaluate channel performance, and improve post-event marketing strategy.
 
 ::: {.columns}
 ::: {.column width="50%"}
 #### **Learning Outcomes**  
-- Identify keyword opportunities through competitive research.  
-- Track and compare domain authority and page rankings.  
-- Recommend on-page SEO improvements.  
-- Design a data-driven SEO content strategy.  
-- Visualize competitor positioning.
+- Integrated survey data with WiFi behavioral data  
+- Built a geo-scoring model using ZIP code analysis  
+- Conducted channel attribution and performance analysis  
+- Identified traveler segments based on behavior  
+- Applied thematic analysis to qualitative responses  
 :::
 ::: {.column width="50%"}
 #### **Key Skills Gained**  
-- Keyword research  
-- Web scraping & data cleaning  
-- SEO analysis tools  
-- Data storytelling  
-- Strategy development
+- Identified high-value geographic markets for targeting  
+- Found that multi-channel exposure increases conversion likelihood  
+- Validated survey intent using real behavioral data  
+- Enabled more effective post-event campaign targeting  
+- Improved budget allocation across marketing channels  
+
 :::
 :::

@@ -1,28 +1,29 @@
 ---
-title: "Marketing Funnel Attribution Model"
+title: "Marketing Funnel Attribution Analysis"
 image: "https://placehold.co/600x400?text=Attribution+Model"
-categories: [Attribution, Marketing Funnel, Campaign Optimization, Analytics Modeling, Data Science]
+categories: [Attribution, Marketing Analytics, Conversion Analysis]
 index: 4
 ---
 
 #### **Overview**  
-This project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.
+Developed a marketing attribution and funnel analysis to evaluate channel performance and identify which touchpoints drive conversions across the customer journey.
 
 ::: {.columns}
 ::: {.column width="50%"}
 #### **Learning Outcomes**  
-- Track multi-touch customer journeys.  
-- Model attribution using first-touch, last-touch, and linear approaches.  
-- Visualize funnel performance.  
-- Quantify channel impact on conversion.  
-- Guide future campaign investment decisions.
+- Mapped customer journey across funnel stages  
+- Developed attribution logic for marketing channels  
+- Analyzed touchpoint contribution to conversions  
+- Evaluated multi-channel campaign performance  
+- Identified inefficiencies in conversion flow 
 :::
 ::: {.column width="50%"}
 #### **Key Skills Gained**  
-- Attribution modeling  
-- Funnel analysis  
-- Data visualization  
-- Campaign performance analysis  
-- R or Python analytics pipelines
+- Identified which channels contribute most to conversions  
+- Found that some channels drive traffic but not conversions  
+- Highlighted importance of multi-touch attribution  
+- Improved budget allocation across marketing channels  
+- Strengthened overall campaign optimization strategy  
+
 :::
 :::
