@@ -54,7 +54,7 @@ large datasets into actionable recommendations. Background includes nonprofit, a
 ---
 
 ### Marketing Intern 
-<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem;"><strong style="color:black;">Balaji Wafers Pvt. Ltd.  -Gujarat, India </strong><strong style="color:black;">Aug 2023 – Dec 2023</strong></div>
+<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem;"><strong style="color:black;">Balaji Wafers Pvt. Ltd.  - Gujarat, India </strong><strong style="color:black;">Aug 2023 – Dec 2023</strong></div>
 
 - Led a market research study with 200+ participants, leveraging data analysis to uncover consumer preferences and inform strategic marketing decisions
 - Conducted competitive analysis to benchmark Balaji Wafers’ digital presence, identifying opportunities to enhance content strategy and ad targeting effectiveness
