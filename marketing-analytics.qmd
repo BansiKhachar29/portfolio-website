@@ -19,4 +19,21 @@ Whether developing dashboards, analyzing campaign performance, or uncovering ins
 - **Marketing Mix & Attribution:** Exploring how different channels contribute to success.
 - **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
 
+## Class Presenation on Google Merch E-commerce 
+
+<div class="card">
+  <h3>Final Presentation</h3>
+
+  <p style="margin-bottom:12px; color:#555; font-size:0.9rem;">
+    Scroll inside the presentation below. Use arrow keys or the slide controls to navigate.
+  </p>
+
+  <iframe
+    src="Deliverable_3_Presentation.html"
+    width="100%"
+    height="600px"
+    style="border: none; border-radius: 12px; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);">
+  </iframe>
+</div>
+
 ---

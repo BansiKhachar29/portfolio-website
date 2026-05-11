@@ -1,5 +1,5 @@
 ---
-title: "Website Performance & Funnel Analysis"
+title: "Website Performance"
 image: "https://placehold.co/600x400?text=Campaign+Dashboard"
 categories: [Marketing Analytics, Google Analytics, Funnel Anlysis, Customer Insights]
 index: 1
