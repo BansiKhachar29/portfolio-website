@@ -13,7 +13,7 @@ format:
     background-transition: fade
     highlight-style: github
     code-fold: true
-    embed-resources: true
+    embed-resources: false
     css: custom_slides.css
 execute:
   echo: false
