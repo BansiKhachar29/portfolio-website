@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
+  },
+  {
+    "objectID": "contact-us/thank-you.html",
+    "href": "contact-us/thank-you.html",
+    "title": "Thank you",
+    "section": "",
+    "text": "Form submitted."
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Digital Marketing",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-1-ontario-international-airport-measuring-community-engagement-roi",
+    "href": "strategic-marketing.html#project-title-1-ontario-international-airport-measuring-community-engagement-roi",
+    "title": "Digital Marketing",
+    "section": "Project Title 1: Ontario International Airport: Measuring Community Engagement ROI",
+    "text": "Project Title 1: Ontario International Airport: Measuring Community Engagement ROI\nOverview\nBuilt a geotargeting and attribution framework linking community engagement efforts to actual passenger behavior, enabling data-driven marketing decisions.\nThe Business Problem\nONT lacked visibility into whether community engagement initiatives were driving real passenger conversions, making it difficult to allocate marketing budgets effectively.\nApproach\n\nIntegrated survey data with airport WiFi behavioral data\nDeveloped a geo-scoring model to prioritize high-value markets\nConducted channel attribution and multi-channel synergy analysis\nBuilt traveler segments based on behavior and demographics\nApplied thematic analysis to understand qualitative insights\n\nKey Insights\n\nCertain geographic markets showed significantly higher conversion potential\nChannel effectiveness varied widely, with some channels underperforming despite high investment\nMulti-channel exposure significantly improved conversion likelihood\nSurvey intent alone was not reliable without behavioral validation\n\nBusiness Impact\n\nEnabled data-driven reallocation of marketing budget\nImproved targeting precision for post-event campaigns\nCreated a repeatable framework for future engagement cycles\nStrengthened alignment between marketing efforts and actual passenger behavior\n\nWhat the Framework Delivers\n\nPrioritized ZIP code targeting for geofencing and campaigns\nChannel performance ranking for budget optimization\nSegment-specific messaging strategies\nMulti-channel campaign sequencing strategy\n\nTools used:\n\nArcGIS Pro\nR\nDedoose: Themeatic Analysis\nExcel"
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-2-digital-marketing-strategy-for-trauma-resource-institute-tri",
+    "href": "strategic-marketing.html#project-title-2-digital-marketing-strategy-for-trauma-resource-institute-tri",
+    "title": "Digital Marketing",
+    "section": "Project Title 2: Digital Marketing Strategy for Trauma Resource Institute (TRI)",
+    "text": "Project Title 2: Digital Marketing Strategy for Trauma Resource Institute (TRI)\nOverview\nDeveloped a comprehensive digital marketing strategy to improve brand awareness, engagement, and conversion performance across TRI’s digital ecosystem.\nBusiness Problem\nTRI had limited digital visibility and low conversion rates despite maintaining multiple platforms (website, mobile app, and social channels). The organization needed a scalable strategy to increase reach and drive enrollment in its training programs.\nApproach\n\nConducted competitor and market analysis\nPerformed keyword research using Google Ads tools\nEvaluated channel performance (SEO, social, mobile app)\nApplied customer segmentation to refine targeting\nDeveloped a multi-channel campaign strategy\n\nKey Insights\n\nDigital channels were underutilized, especially paid search\nOrganic traffic potential was not fully captured due to weak SEO\nMessaging across platforms lacked consistency\nMobile app was not effectively leveraged for conversions\n\nBusiness Impact\n\nProvided a structured roadmap to increase digital visibility\nEnabled better targeting of high-value audience segments\nIdentified opportunities to improve conversion rates across platforms\n\nAnalytics and Measurements\n\nAnalyzed user demographics and behavior using Google Analytics (GA4) to identify high-value audience segments\n\nEvaluated traffic sources and user acquisition channels to determine where marketing spend should be concentrated\n\nConducted funnel analysis to identify drop-off points in the training program conversion process\n\nAssessed landing page performance and user engagement metrics to improve conversion effectiveness\n\nRecommendations\n\nLeverage the $10,000 Google Ads Grant for targeted campaigns\nImprove SEO strategy and keyword optimization\nEnhance mobile app experience to drive conversions\nIncrease engagement through short-form social content\nAlign messaging across all digital channels"
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Website Performance",
+    "section": "",
+    "text": "Overview\nAnalyzed user behavior, demographics, and conversion funnels using Google Analytics to identify high-value audiences, optimize ad targeting, and reduce drop-offs in program enrollment.\n\n\n\n\nLearning Outcomes\n\nAnalyzed user demographics and behavior using GA4\n\nEvaluated traffic sources and acquisition channels\n\nConducted funnel analysis to identify drop-off points\n\nAssessed landing page performance and user journeys\n\nIdentified high-value audience segments\n\n\n\n\n\nKey Skills Gained\n\nIdentified major drop-offs in the enrollment funnel\n\nDiscovered high-traffic segments with low conversion rates\n\nHighlighted mismatch between traffic sources and conversion quality\n\nImproved ad targeting toward high-converting audiences\n\nProvided recommendations to optimize conversion performance"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Marketing Funnel Attribution Analysis",
+    "section": "",
+    "text": "Overview\nDeveloped a marketing attribution and funnel analysis to evaluate channel performance and identify which touchpoints drive conversions across the customer journey.\n\n\n\n\nLearning Outcomes\n\nMapped customer journey across funnel stages\n\nDeveloped attribution logic for marketing channels\n\nAnalyzed touchpoint contribution to conversions\n\nEvaluated multi-channel campaign performance\n\nIdentified inefficiencies in conversion flow\n\n\n\n\nKey Skills Gained\n\nIdentified which channels contribute most to conversions\n\nFound that some channels drive traffic but not conversions\n\nHighlighted importance of multi-touch attribution\n\nImproved budget allocation across marketing channels\n\nStrengthened overall campaign optimization strategy"
+  },
+  {
+    "objectID": "listings/02-seo-benchmarking-analysis.html",
+    "href": "listings/02-seo-benchmarking-analysis.html",
+    "title": "Airport Parking Optimization (ONT)",
+    "section": "",
+    "text": "Overview\nBuilt a geo-targeting and attribution framework combining survey and behavioral data to identify high-value markets, evaluate channel performance, and improve post-event marketing strategy.\n\n\n\n\nLearning Outcomes\n\nIntegrated survey data with WiFi behavioral data\n\nBuilt a geo-scoring model using ZIP code analysis\n\nConducted channel attribution and performance analysis\n\nIdentified traveler segments based on behavior\n\nApplied thematic analysis to qualitative responses\n\n\n\n\n\nKey Skills Gained\n\nIdentified high-value geographic markets for targeting\n\nFound that multi-channel exposure increases conversion likelihood\n\nValidated survey intent using real behavioral data\n\nEnabled more effective post-event campaign targeting\n\nImproved budget allocation across marketing channels"
+  },
+  {
+    "objectID": "Presentation.html#the-business-problem",
+    "href": "Presentation.html#the-business-problem",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "The Business Problem",
+    "text": "The Business Problem\n\n\nThe challenge\nAn ecommerce platform is generating strong traffic but converting almost none of it into revenue.\nDespite 2,546 users visiting on a single day, only 17 purchases were completed.\n\nOverall CVR: 0.7%\n\n\nWhy it matters\n\nRevenue is being lost at every funnel stage\nWithout knowing where users drop off, budget cannot be allocated efficiently\nWithout attribution, the business cannot identify which touchpoints drive conversions"
+  },
+  {
+    "objectID": "Presentation.html#project-objectives",
+    "href": "Presentation.html#project-objectives",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Project Objectives",
+    "text": "Project Objectives\n\nIdentify and quantify drop-off points across the ecommerce conversion funnel\nBuild a stakeholder-ready dashboard tracking KPIs with clean BigQuery mart logic\nApply attribution analysis to determine which funnel stages have the greatest influence on purchase completion\nDeliver actionable recommendations to improve the 0.7% conversion rate"
+  },
+  {
+    "objectID": "Presentation.html#data-methodology",
+    "href": "Presentation.html#data-methodology",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Data & Methodology",
+    "text": "Data & Methodology\n\n\nData Source\n\nGA4 Obfuscated Sample\nBigQuery Public Dataset\nSingle-day snapshot: Jan 31, 2021\nAccessed via bigrquery + dbplyr\n\n\nAnalytical Framework\n\n\n\nComponent\nPurpose\n\n\n\n\nDescriptive\nKPIs + funnel\n\n\nFunnel analysis\nDrop-off rates\n\n\nMarkov Chain\nAttribution\n\n\nHeuristic models\nComparison"
+  },
+  {
+    "objectID": "Presentation.html#core-kpis",
+    "href": "Presentation.html#core-kpis",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Core KPIs",
+    "text": "Core KPIs\n\n\n\n\n\n\n\nMetric\nValue\n\n\n\n\nTotal Events\n26,489\n\n\nDistinct Users\n2,546\n\n\nPurchases\n17\n\n\nOverall CVR\n0.7%\n\n\n\n\n\n\n\n\nThe platform generates ~10 events per user per session — engagement is not the problem. Conversion is."
+  },
+  {
+    "objectID": "Presentation.html#funnel-performance",
+    "href": "Presentation.html#funnel-performance",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Funnel Performance",
+    "text": "Funnel Performance"
+  },
+  {
+    "objectID": "Presentation.html#attribution-methodology",
+    "href": "Presentation.html#attribution-methodology",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Attribution Methodology",
+    "text": "Attribution Methodology\n\n\nApproach\n\nUnit: individual user session via user_pseudo_id\nTouchpoints: all 5 funnel events\nModel: Markov Chain (Order 1)\nComparison: First-touch & Last-touch heuristics\n\n\nWhy Markov Chain?\n\n\n\nModel\nLimitation\n\n\n\n\nFirst-touch\nIgnores everything after entry\n\n\nLast-touch\nOver-credits final step\n\n\nMarkov\nAccounts for full journey"
+  },
+  {
+    "objectID": "Presentation.html#attribution-results",
+    "href": "Presentation.html#attribution-results",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Attribution Results",
+    "text": "Attribution Results\n\n\npage_view + view_item account for 52.3% of total conversion credit — the top of the funnel matters most."
+  },
+  {
+    "objectID": "Presentation.html#model-comparison",
+    "href": "Presentation.html#model-comparison",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Model Comparison",
+    "text": "Model Comparison"
+  },
+  {
+    "objectID": "Presentation.html#recommendations",
+    "href": "Presentation.html#recommendations",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Recommendations",
+    "text": "Recommendations\n\n\n1. Fix landing page\n78.4% of users never view a product\n\nFeatured products above the fold\nImprove search & navigation\nA/B test homepage layout\n\n+250 users into funnel\n\n2. Optimize product pages\n81.8% who view a product don’t add to cart\n\nAdd reviews & urgency signals\nRewrite benefit-led copy\nA/B test CTA placement\n\n+54 add-to-cart users\n\n3. Reduce checkout friction\n68.5% abandon at checkout\n\nGuest checkout\nFewer form fields\nTrust badges + mobile optimization\n\nCVR: 0.7% → 1.1%"
+  },
+  {
+    "objectID": "Presentation.html#limitations-caveats",
+    "href": "Presentation.html#limitations-caveats",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Limitations & Caveats",
+    "text": "Limitations & Caveats\n\nSingle-day snapshot — findings cannot account for seasonal variation, day-of-week effects, or campaign cycles. All results are directional.\nAnonymized users — user_pseudo_id does not persist across devices. Distinct user count is inflated; true CVR is likely higher than 0.7%.\nNo channel data — cannot determine whether paid, organic, or direct traffic converts differently.\nSmall sample — 17 purchases carries high statistical uncertainty. Validate across 30+ days before acting.\nShapley values undefined — all converting users took identical paths, leaving no variation to calculate marginal contribution."
+  },
+  {
+    "objectID": "Presentation.html#next-steps",
+    "href": "Presentation.html#next-steps",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Next Steps",
+    "text": "Next Steps\n\n\nShort term (0–30 days)\n\nImplement homepage A/B test\nAdd reviews to top 10 product pages\nEnable guest checkout\n\nMedium term (30–90 days)\n\nCollect 30 days of data for reanalysis\nImplement consistent user_id tagging\n\n\nLong term (90+ days)\n\nIntegrate CRM + campaign data into BigQuery\nRun full multi-touch Markov attribution with 100+ conversions\nBuild channel-level ROI model to guide budget allocation"
+  },
+  {
+    "objectID": "Presentation.html#summary",
+    "href": "Presentation.html#summary",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Summary",
+    "text": "Summary\n\n\nWhat we found\n\nCVR of just 0.7% from 2,546 users\nLargest drop: view_item → add_to_cart at 81.8%\nTop of funnel carries 52% of Markov attribution credit\n\nWhat we recommend\n\nFix the landing-to-product discovery drop\nOptimize the product detail page\nRemove checkout friction\n\n\nDeliverables\n\nLooker Studio Dashboard\nQuarto Reproducible Report\nThis Presentation\n\nRepository\ngithub.com/MattPradoCalPoly/project-IBM6530"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "Professional Summary\nDigital Marketing Analytics professional with 1+ year of experience in data analysis, survey research, and campaign measurement. Experienced in R, SQL, Tableau, Google Analytics, and ArcGIS. Skilled in audience segmentation, geospatial analysis, and converting large datasets into actionable recommendations. Background includes nonprofit, and airport environments.\n\n\nTechnical Skills\n\nTools: Qualtrics, Looker Studio, Tableau, Google Analytics 4, Google Tag Manager, Google Ads, ArcGIS, Monday.com\nTechnical: R, SQL, WordPress, HTML, CSS, WCAG\nMethods: Data Visualization, A/B Testing, Customer Segmentation, Market Research, Campaign Analysis, SEO Optimization, UX/UI Principles, Theme Analysis, Crosstab Analysis\n\n\n\nEducation\n\n\n\n\n\n\n\n\nDegree\nYear\nInstitution\n\n\n\n\nMS in Digital Marketing and Analytics\n2024–2026\nCalifornia State Polytechnic University, Pomona, CA\n\n\nBachelor of Business Administration (Honors), Major in Marketing\n2020–2024\nAhmedabad University, Gujarat, India\n\n\n\n\n\nWork Experience\n\nData Analyst Assistant\n\nAssociated Student Inc. - Pomona, CAJun 2025 – Present\n\n\nDesigned and deployed 6 cross-campus surveys using Qualtrics and Excel, achieved from 85% to 95% response rates and supporting data-driven decision-making across departments.\nPerformed crosstab and segmented analysis on 450+ employees, identified key trends and delivering insights that improved engagement, with 79% reporting stronger connection to the organization.\nLed themes analysis of 400+ open-ended responses in Dedoose, to identify patterns in user behavior and translating findings into actionable recommendations across 10 teams.\nCollaborated with cross-functional teams to define research questions and success metrics and communicated insights through clear data storytelling to support decision-making.\n\n\n\n\nWeb Assistant\n\nCal Poly Pomona Enterprises - Pomona, CA Apr 2025 – Present\n\n\nManaged and developed website content using WordPress, HTML, and CSS, ensuring accuracy, accessibility, and alignment with brand and promotional standards\nAudited and resolved site issues, improving accessibility score from 7 to 9.7/10 and achieving full WCAG compliance pre-launch\nAnalyzed 15+ university websites to identify navigation and content trends, translating findings into Figma wireframes and sitemaps -Collaborated with designers, developers, and IT teams to execute site updates, campaign content, and QA for a successful website launch\n\n\n\n\nDigital Marketing Intern\n\nTrauma Resource Institute - Claremont, CA Sep 2024 – May 2025\n\n\nManaged $10K Google Ads Grant campaign for Trauma Resiliency Model program, optimizing ad targeting and performance to increase program visibility and reach\nLed SEO strategy and content optimization, improving organic search rankings and website traffic by 10%\nAnalyzed user journeys, funnel drop-offs, and engagement metrics using Google Analytics, driving a 15% increase in user engagement through data-informed improvements\n\n\n\n\nMarketing Intern\n\nBalaji Wafers Pvt. Ltd. - Gujarat, India Aug 2023 – Dec 2023\n\n\nLed a market research study with 200+ participants, leveraging data analysis to uncover consumer preferences and inform strategic marketing decisions\nConducted competitive analysis to benchmark Balaji Wafers’ digital presence, identifying opportunities to enhance content strategy and ad targeting effectiveness\nOptimized social media campaigns through audience and engagement analysis, increasing brand visibility by 10%\nDeveloped and presented a comprehensive e-commerce launch blueprint, outlining go-to-market strategy and digital growth opportunities\nCollaborated with creative teams to refine product packaging and promotional materials, ensuring alignment with brand guidelines and visual consistency\nProduced campaign performance reports, translating data into actionable insights to guide future marketing initiatives."
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Segmentation Using Clustering",
+    "section": "",
+    "text": "Overview\nApplied clustering techniques to segment customers based on behavior and preferences, enabling targeted marketing strategies and improved personalization.\n\n\n\n\nLearning Outcomes\n\nCollected and cleaned survey data using Qualtrics\n\nApplied clustering techniques to segment customers\n\nConducted regression and statistical analysis\n\nEvaluated factors influencing customer satisfaction\n\nAnalyzed behavioral and preference patterns\n\n\n\n\n\nKey Skills Gained\n\nIdentified distinct customer segments with different needs\n\nFound price, food quality, and cleanliness as key drivers\n\nRevealed differences between price-sensitive and experience-focused users\n\nEnabled targeted marketing and service improvements\n\nSupported data-driven decision-making for operations"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Campaign Performance Dashboard",
+    "section": "",
+    "text": "Overview\nBuilt an interactive dashboard to track campaign performance metrics, identify trends, and support data-driven marketing decisions across channels.\n\n\n\n\nLearning Outcomes\n\nBuilt a dashboard to track campaign performance metrics\n\nIntegrated data across multiple marketing channels\n\nAnalyzed trends in CTR, conversion rate, and ROI\n\nDesigned visualizations for stakeholder reporting\n\nEnabled real-time performance monitoring\n\n\n\n\n\nKey Skills Gained\n\nIdentified high- and low-performing campaigns\n\nRevealed trends across channels and audience segments\n\nImproved visibility into marketing performance\n\nSupported faster, data-driven decision-making\n\nEnhanced reporting for stakeholders"
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Bansi Khachar",
+    "section": "About Me",
+    "text": "About Me\nI’ve always been curious about the story behind the numbers — why people click, leave, or convert. That curiosity led me to marketing analytics, where data becomes a way to understand real human behavior.\nOriginally from India, I moved to California to pursue my MS in Digital Marketing and Analytics at Cal Poly Pomona. That journey shaped how I think about consumers, culture, and decision-making.\nToday, I focus on turning data into strategy — analyzing funnels, building attribution models, and designing surveys that uncover not just what is happening, but why it matters."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hi, I’m Bansi Khachar",
+    "section": "Education",
+    "text": "Education\n\nCalifornia State Polytechnic University, Pomona\nMaster of Science in Digital Marketing and Analytics - 2026\nAhmedabad University, India\nBachelor of Business Administrations (Honors) - 2024 Major in Marketing"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hi, I’m Bansi Khachar",
+    "section": "Experience",
+    "text": "Experience\n\nData Analyst Assistant - Jun 2025 - Present\nAssociated Students Inc., CPP - Pomona\nWeb Assistant - Apr 2025 - Present\nCal Poly Pomona Enterprises - Pomona\nDigital Marketing Intern - Sep 2024 - May 2025\nTrauma Resource Institute - Claremont\nMarketing Intern - Aug 2023 - Dec 2023\nBalaji Wafers Pvt Ltd - India"
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Bansi Khachar",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nGood work starts with good conversations.\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+  },
+  {
+    "objectID": "contact-us/contact-us.html",
+    "href": "contact-us/contact-us.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Template"
+  }
+]
