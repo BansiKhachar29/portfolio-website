@@ -14,6 +14,8 @@ website:
         href: strategic-marketing.qmd
       - text: "Résumé"
         href: resume.qmd
+      - text: "Presentation"
+        href: Presentation.qmd
 
 
 format:
