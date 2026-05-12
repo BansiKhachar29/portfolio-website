@@ -5,16 +5,16 @@ author: "Bansi Khachar · Matthew Prado · Lucynda Young · Saurabh Parate"
 date: today
 format:
   revealjs:
-    theme: simple
+    theme: default
+    transition: slide
     slide-number: true
-    progress: true
-    transition: fade
-    transition-speed: fast
-    background-transition: fade
-    highlight-style: github
-    code-fold: true
-    embed-resources: true
-    css: custom_slides.css
+    footer: " IBM 6530 | Group 5"
+    width: 1280
+    height: 720
+    css: mein3d-slides.css
+    auto-scale: true
+    smaller: true
+    scrollable: true
 execute:
   echo: false
   warning: false
