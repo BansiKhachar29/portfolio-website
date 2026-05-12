@@ -8,6 +8,7 @@ format:
     theme: default
     transition: slide
     slide-number: true
+<<<<<<< HEAD
     footer: " IBM 6530 | Group 5"
     width: 1280
     height: 720
@@ -15,6 +16,16 @@ format:
     auto-scale: true
     smaller: true
     scrollable: true
+=======
+    progress: true
+    transition: fade
+    transition-speed: fast
+    background-transition: fade
+    highlight-style: github
+    code-fold: true
+    embed-resources: false
+    css: custom_slides.css
+>>>>>>> af24c3b5967fa528ad3ad96a81bcc8e992f03374
 execute:
   echo: false
   warning: false
