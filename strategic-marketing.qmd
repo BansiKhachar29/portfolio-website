@@ -77,7 +77,10 @@ TRI had limited digital visibility and low conversion rates despite maintaining 
 - Messaging across platforms lacked consistency
 - Mobile app was not effectively leveraged for conversions
 
+::: {.column width="100%" style="text-align: center;"}
 ![](images/5 newplot.png)
+:::
+
 **Business Impact**
 
 - Provided a structured roadmap to increase digital visibility
