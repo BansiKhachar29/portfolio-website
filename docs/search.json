@@ -67,28 +67,28 @@
     "href": "Presentation.html#the-business-problem",
     "title": "Ecommerce Funnel & Attribution Analysis",
     "section": "The Business Problem",
-    "text": "The Business Problem\n\n\nThe challenge\nAn ecommerce platform is generating strong traffic but converting almost none of it into revenue.\nDespite 2,546 users visiting on a single day, only 17 purchases were completed.\n\nOverall CVR: 0.7%\n\n\nWhy it matters\n\nRevenue is being lost at every funnel stage\nWithout knowing where users drop off, budget cannot be allocated efficiently\nWithout attribution, the business cannot identify which touchpoints drive conversions"
+    "text": "The Business Problem\n\n\nAn ecommerce platform is generating strong traffic but converting almost none of it into revenue.\nDespite 2,546 distinct users visiting on a single day, only 17 purchases were completed.\n\n\nOverall CVR: 0.7% — fewer than 1 in 100 visitors completes a purchase\n\n\nWhy it matters\n\nRevenue is being lost at every funnel stage\nWithout knowing where users drop off, marketing budget cannot be allocated efficiently\nWithout attribution, the business cannot identify which touchpoints drive conversions"
   },
   {
     "objectID": "Presentation.html#project-objectives",
     "href": "Presentation.html#project-objectives",
     "title": "Ecommerce Funnel & Attribution Analysis",
     "section": "Project Objectives",
-    "text": "Project Objectives\n\nIdentify and quantify drop-off points across the ecommerce conversion funnel\nBuild a stakeholder-ready dashboard tracking KPIs with clean BigQuery mart logic\nApply attribution analysis to determine which funnel stages have the greatest influence on purchase completion\nDeliver actionable recommendations to improve the 0.7% conversion rate"
+    "text": "Project Objectives\n\nIdentify and quantify drop-off points across the purchase funnel using GA4 + BigQuery\nBuild a stakeholder-ready dashboard with clean mart logic and correct KPI definitions\nApply attribution analysis to determine which funnel stages most influence purchase completion\nDeliver actionable recommendations to improve the 0.7% conversion rate"
   },
   {
     "objectID": "Presentation.html#data-methodology",
     "href": "Presentation.html#data-methodology",
     "title": "Ecommerce Funnel & Attribution Analysis",
     "section": "Data & Methodology",
-    "text": "Data & Methodology\n\n\nData Source\n\nGA4 Obfuscated Sample\nBigQuery Public Dataset\nSingle-day snapshot: Jan 31, 2021\nAccessed via bigrquery + dbplyr\n\n\nAnalytical Framework\n\n\n\nComponent\nPurpose\n\n\n\n\nDescriptive\nKPIs + funnel\n\n\nFunnel analysis\nDrop-off rates\n\n\nMarkov Chain\nAttribution\n\n\nHeuristic models\nComparison"
+    "text": "Data & Methodology\n\n\nData source\n\nGA4 Obfuscated Sample\nBigQuery Public Dataset\nSingle-day snapshot: Jan 31, 2021\nAccessed via bigrquery + dbplyr in R\n\n\nTools\n\nR · BigQuery · ChannelAttribution\nQuarto · Looker Studio\n\n\nAnalytical components\n\n\n\nComponent\nPurpose\n\n\n\n\nDescriptive\nKPIs + funnel rates\n\n\nFunnel analysis\nDrop-off by stage\n\n\nMarkov Chain\nAttribution model\n\n\nHeuristic models\nFirst / last touch"
   },
   {
     "objectID": "Presentation.html#core-kpis",
     "href": "Presentation.html#core-kpis",
     "title": "Ecommerce Funnel & Attribution Analysis",
     "section": "Core KPIs",
-    "text": "Core KPIs\n\n\n\n\n\n\n\nMetric\nValue\n\n\n\n\nTotal Events\n26,489\n\n\nDistinct Users\n2,546\n\n\nPurchases\n17\n\n\nOverall CVR\n0.7%\n\n\n\n\n\n\n\n\nThe platform generates ~10 events per user per session — engagement is not the problem. Conversion is."
+    "text": "Core KPIs\n\n\n\n\n\n\n\nMetric\nValue\n\n\n\n\nTotal Events\n26,489\n\n\nDistinct Users\n2,546\n\n\nPurchases\n17\n\n\nOverall CVR\n0.7%\n\n\n\n\n\n\n\n\nThe platform generates roughly 10 events per user per session — engagement is not the problem. Conversion is."
   },
   {
     "objectID": "Presentation.html#funnel-performance",
@@ -102,49 +102,56 @@
     "href": "Presentation.html#attribution-methodology",
     "title": "Ecommerce Funnel & Attribution Analysis",
     "section": "Attribution Methodology",
-    "text": "Attribution Methodology\n\n\nApproach\n\nUnit: individual user session via user_pseudo_id\nTouchpoints: all 5 funnel events\nModel: Markov Chain (Order 1)\nComparison: First-touch & Last-touch heuristics\n\n\nWhy Markov Chain?\n\n\n\nModel\nLimitation\n\n\n\n\nFirst-touch\nIgnores everything after entry\n\n\nLast-touch\nOver-credits final step\n\n\nMarkov\nAccounts for full journey"
+    "text": "Attribution Methodology\n\n\nSetup\n\nUnit: individual user session via user_pseudo_id\nTouchpoints: all 5 funnel events\nPackage: ChannelAttribution in R\n\n\nPath defined as:\npage_view → view_item → add_to_cart → begin_checkout → purchase\n\nWhy Markov Chain?\n\n\n\nModel\nWeakness\n\n\n\n\nFirst-touch\nIgnores all steps after entry\n\n\nLast-touch\nOver-credits the final step\n\n\nMarkov Chain\nAccounts for full journey\n\n\n\n\nMarkov uses a removal effect — it measures how much conversion probability drops when each stage is removed from the path."
   },
   {
     "objectID": "Presentation.html#attribution-results",
     "href": "Presentation.html#attribution-results",
     "title": "Ecommerce Funnel & Attribution Analysis",
     "section": "Attribution Results",
-    "text": "Attribution Results\n\n\npage_view + view_item account for 52.3% of total conversion credit — the top of the funnel matters most."
+    "text": "Attribution Results\n\n\n\npage_view + view_item together account for 52.3% of total conversion credit."
   },
   {
-    "objectID": "Presentation.html#model-comparison",
-    "href": "Presentation.html#model-comparison",
+    "objectID": "Presentation.html#attribution-model-comparison",
+    "href": "Presentation.html#attribution-model-comparison",
     "title": "Ecommerce Funnel & Attribution Analysis",
-    "section": "Model Comparison",
-    "text": "Model Comparison"
+    "section": "Attribution Model Comparison",
+    "text": "Attribution Model Comparison"
   },
   {
     "objectID": "Presentation.html#recommendations",
     "href": "Presentation.html#recommendations",
     "title": "Ecommerce Funnel & Attribution Analysis",
     "section": "Recommendations",
-    "text": "Recommendations\n\n\n1. Fix landing page\n78.4% of users never view a product\n\nFeatured products above the fold\nImprove search & navigation\nA/B test homepage layout\n\n+250 users into funnel\n\n2. Optimize product pages\n81.8% who view a product don’t add to cart\n\nAdd reviews & urgency signals\nRewrite benefit-led copy\nA/B test CTA placement\n\n+54 add-to-cart users\n\n3. Reduce checkout friction\n68.5% abandon at checkout\n\nGuest checkout\nFewer form fields\nTrust badges + mobile optimization\n\nCVR: 0.7% → 1.1%"
+    "text": "Recommendations\n\n\n\n1. Fix landing page\n78.4% of users never view a product\n\nFeatured items above the fold\nImprove search & navigation\nA/B test homepage layout\n\nEst. +250 users into funnel\n\n\n\n2. Optimize product pages\n81.8% who view a product don’t add to cart\n\nAdd reviews & urgency signals\nBenefit-led copy\nA/B test CTA placement\n\nEst. +54 add-to-cart users\n\n\n\n3. Reduce checkout friction\n68.5% abandon at checkout\n\nEnable guest checkout\nReduce form fields\nTrust badges + mobile UX\n\nCVR: 0.7% → ~1.1%"
   },
   {
-    "objectID": "Presentation.html#limitations-caveats",
-    "href": "Presentation.html#limitations-caveats",
+    "objectID": "Presentation.html#limitations",
+    "href": "Presentation.html#limitations",
     "title": "Ecommerce Funnel & Attribution Analysis",
-    "section": "Limitations & Caveats",
-    "text": "Limitations & Caveats\n\nSingle-day snapshot — findings cannot account for seasonal variation, day-of-week effects, or campaign cycles. All results are directional.\nAnonymized users — user_pseudo_id does not persist across devices. Distinct user count is inflated; true CVR is likely higher than 0.7%.\nNo channel data — cannot determine whether paid, organic, or direct traffic converts differently.\nSmall sample — 17 purchases carries high statistical uncertainty. Validate across 30+ days before acting.\nShapley values undefined — all converting users took identical paths, leaving no variation to calculate marginal contribution."
+    "section": "Limitations",
+    "text": "Limitations\n\nSingle-day snapshot — results cannot account for seasonal variation, day-of-week effects, or campaign cycles. All findings are directional only.\nAnonymized users — user_pseudo_id does not persist across devices, inflating distinct user counts and deflating true CVR.\nNo channel or campaign data — cannot separate paid, organic, or direct traffic performance.\nSmall purchase sample — 17 completed purchases carry high statistical uncertainty. Validate across 30+ days before taking action.\nShapley values undefined — all 17 converting users took identical paths, leaving no variation to compute marginal channel contribution."
   },
   {
     "objectID": "Presentation.html#next-steps",
     "href": "Presentation.html#next-steps",
     "title": "Ecommerce Funnel & Attribution Analysis",
     "section": "Next Steps",
-    "text": "Next Steps\n\n\nShort term (0–30 days)\n\nImplement homepage A/B test\nAdd reviews to top 10 product pages\nEnable guest checkout\n\nMedium term (30–90 days)\n\nCollect 30 days of data for reanalysis\nImplement consistent user_id tagging\n\n\nLong term (90+ days)\n\nIntegrate CRM + campaign data into BigQuery\nRun full multi-touch Markov attribution with 100+ conversions\nBuild channel-level ROI model to guide budget allocation"
+    "text": "Next Steps\n\n\nShort term (0–30 days)\n\nImplement homepage A/B test\nAdd reviews to top 10 product pages\nEnable guest checkout\n\n\nMedium term (30–90 days)\n\nCollect 30 days of data for reanalysis\nImplement consistent user_id tagging in GA4\n\n\nLong term (90+ days)\n\nIntegrate CRM and campaign data into BigQuery\nRun full Markov attribution with 100+ conversions\nBuild channel-level ROI model to guide ad spend\n\n\nRepository\ngithub.com/MattPradoCalPoly/project-IBM6530"
   },
   {
     "objectID": "Presentation.html#summary",
     "href": "Presentation.html#summary",
     "title": "Ecommerce Funnel & Attribution Analysis",
     "section": "Summary",
-    "text": "Summary\n\n\nWhat we found\n\nCVR of just 0.7% from 2,546 users\nLargest drop: view_item → add_to_cart at 81.8%\nTop of funnel carries 52% of Markov attribution credit\n\nWhat we recommend\n\nFix the landing-to-product discovery drop\nOptimize the product detail page\nRemove checkout friction\n\n\nDeliverables\n\nLooker Studio Dashboard\nQuarto Reproducible Report\nThis Presentation\n\nRepository\ngithub.com/MattPradoCalPoly/project-IBM6530"
+    "text": "Summary\n\n\nWhat we found\n\nCVR of just 0.7% from 2,546 users on a single day\nLargest drop-off: view_item → add_to_cart at 81.8%\nTop two funnel stages carry 52% of Markov attribution credit\n\n\nWhat we recommend\n\nFix the landing-to-product discovery gap\nOptimize the product detail page experience\nRemove checkout friction — CVR can reach ~1.1%\n\n\nDeliverables\n\nLooker Studio Dashboard\nQuarto Reproducible Report\nThis Presentation\n\n\nData\n\nGA4 Obfuscated Sample via BigQuery\nSingle-day snapshot: Jan 31, 2021\n\n\nTeam\nBansi Khachar · Matthew Prado\nLucynda Young · Saurabh Parate"
+  },
+  {
+    "objectID": "Presentation.html#thank-you",
+    "href": "Presentation.html#thank-you",
+    "title": "Ecommerce Funnel & Attribution Analysis",
+    "section": "Thank You",
+    "text": "Thank You\n\nQuestions & Discussion\n\n\nBansi Khachar · Matthew Prado · Lucynda Young · Saurabh Parate\nIBM 6530 · Cal Poly Pomona\n\n\n\ngithub.com/MattPradoCalPoly/project-IBM6530"
   },
   {
     "objectID": "resume.html",
